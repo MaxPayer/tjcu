@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-search{
+    background-color: #004094;
+    position: relative;
+    width: 100%;
+    height: 35px;
+}
+.top-search .search{
+    position: absolute;
+    right: 50px;
+    width: 265px;
+    height: 30px;
+    vertical-align: middle;
+}
