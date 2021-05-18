@@ -91,8 +91,6 @@ $('#branch').addDropdown({
     direction: 'x',
     menuList: [{
         title: '党群部门',
-        // width: 292.5,
-        // itemHeight: 30.8,
         items: [{
             name: '党委办公纸（保密委员会办公室）'
         }, {
@@ -307,4 +305,4 @@ var im = document.getElementsByClassName('sliderImg');
             im[i].style.display = 'none';
         }
         im[index].style.display = 'block';
-    }, 2000);
+    }, 4000);
